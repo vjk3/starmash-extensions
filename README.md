@@ -9,5 +9,5 @@ This extensions shows a near-realtime display of player's APM (actions-per-minut
 A more accurate implementation would track a rolling one-minute window to provide a much closer approximation of player's real-world performance. Send me a PR if you have a good solution for me 😀 
 
 Demo:
-![Notice the APM counter on the top section of the screen](images/Demo%20of%20APM%20counter%20extension%20for%20Starmash.gif)# starmash-extensions
-Extensions developed for Bombita's Starmash mod for https://airma.sh
+
+![Notice the APM counter on the top section of the screen](images/Demo%20of%20APM%20counter%20extension%20for%20Starmash.gif)
