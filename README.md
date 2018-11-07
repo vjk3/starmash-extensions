@@ -12,8 +12,22 @@ A more accurate implementation would track a rolling one-minute window to provid
 
 <img src="media/Demo of APM counter extension for Starmash.gif">
 
+
 ### Voice Commands
+Trigger custom in-game actions using your voice.
 Coming soon.
 
-### LASER (aim assist)
+
+### LASER
+Aim assist.
 Coming soon.
+
+
+### Motion Trails
+Visualize the path your ship has traced. Useful for identifying weak spots in your game play.
+Coming soon. 
+
+
+### Quick Builder
+Create and edit new Starmash extensions locally; no CDN or hosting required!
+Coming soon. 
