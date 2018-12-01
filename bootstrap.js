@@ -13,7 +13,7 @@
 		let section = sp.addSection("Bootstrap");
 
 		section.addString("bootstrapCode",
-			"Run this code when game starts. My personal favorite is turning off missile smoke particles to reduce a bit of CPU load.",
+			"<br> Run this code when game starts. My personal favorite is turning off missile smoke particles to reduce a bit of CPU load.",
 			{maxLength: 200})
 
 		return sp
